@@ -26,7 +26,7 @@ For example, one can do:
 
             # Creates a LDOS object directly.
             # This object will contain LDOS data.
-            ldos = mala.LDOS.from_cube_file(parameters, path_to_cube_fiöle)
+            ldos = mala.LDOS.from_cube_file(parameters, path_to_cube_file)
 
             # The first command will calculate the Fermi energy because it
             # has not been calculated yet. In the second command, the band
